@@ -243,7 +243,7 @@
         transition-duration: 1s;
     }
     .slider{
-        animation:slider 1s 1 linear;
+        animation:slider .5s 1 linear;
     }
     @keyframes slider {
         0%{
